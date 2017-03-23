@@ -1,2 +1,3 @@
 this is advanced git
 this is new branch called "feature"
+new line
